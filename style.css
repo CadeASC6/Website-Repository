@@ -1,0 +1,124 @@
+body{
+    background-color:#4ABDCA;
+    padding:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#top_header{
+    display: flex;
+    background-color:#FC4A1A;
+    padding:20px;
+    padding-bottom: 40px;
+    font-size: 48px;
+}
+#selfie img{
+    justify-content: flex-start;
+    width: 400px;
+    height:300px;
+    padding:20px;
+    border-radius: 90%;
+}
+#top_intro{
+    justify-content: flex-end;
+    font-size: 65px;
+    color: #DFDCE3;
+}
+#come_from_header{
+    display: inline-block;
+    /* justify-content: center; */
+    background-color:#FC4A1A;
+    padding-left:7px;
+    padding-right:7px;
+    font-size:40px;
+    padding-top:5px;
+    padding-bottom:5px;
+    color: #DFDCE3;
+}
+#name_left_margin {
+    padding-left: 10px;
+}
+#come_from{
+    background-color:#F7B733;;
+    padding:20px;
+    padding-bottom:40px;
+}
+#family{
+    display: flex
+}
+#location{
+    display: flex
+}
+#school{
+    display: flex
+}
+.info{
+    font-size: 24px;
+    font-family: verdana;
+    color: #DFDCE3;
+}
+.image img{
+    width: 200px;
+    height:200px;
+}
+.contact_info{
+    font-size: 29px;
+    color: #DFDCE3;
+}
+#social_life_header{
+    display:inline-block;
+     /* justify-content: center; */
+    background-color:#FC4A1A;
+    padding-left:7px;
+    padding-right:7px;
+    font-size:30px;
+    padding-top:0px;
+    padding-bottom:0px;
+    color: #DFDCE3;
+}
+#social_life{
+    display:flex;
+    background-color:#F7B733;;
+    padding: 20px;
+}
+#social_info{
+    flex-direction: column;
+    padding-left: 25px;
+    font-size: 24px;
+    font-family: verdana;
+    color: #DFDCE3;
+}
+p {
+    color: #DFDCE3;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.logo img{
+    width: 100px;
+    height:100px;
+}
+#wide_image img{
+    width: 900px;
+    height:400px;
+}
+#gallaryHeader {
+    display:inline-block;
+     /* justify-content: center; */
+    background-color:#FC4A1A;
+    padding-left:7px;
+    padding-right:7px;
+    font-size:30px;
+    padding-top:0px;
+    padding-bottom:0px;
+    color: #DFDCE3;
+}
+.gallaryPic {
+    display: flex;
+    width: 250px;
+    height: 320px;
+    padding: 20px;
+}
+#gallary {
+    min-width: 1000px;
+    display: flex;
+    background-color:#F7B733;;
+    padding: 20px;
+}
